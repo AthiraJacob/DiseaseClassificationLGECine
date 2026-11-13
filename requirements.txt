@@ -1,0 +1,13 @@
+# Core feature extraction
+numpy>=1.21
+scipy>=1.7
+
+# Reading and writing the PNG example data
+Pillow>=9.0
+
+# reproduce/ only
+scikit-learn>=1.0
+
+# Optional: overlay figures from the pipeline, and the test suite
+matplotlib>=3.5
+pytest>=7.0

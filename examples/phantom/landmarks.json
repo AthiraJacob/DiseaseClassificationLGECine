@@ -1,0 +1,44 @@
+{
+  "basal": {
+    "lv_center": [
+      112.0,
+      112.0
+    ],
+    "rv_insertion_anterior": [
+      70.6,
+      77.3
+    ],
+    "rv_insertion_inferior": [
+      73.8,
+      150.2
+    ]
+  },
+  "mid": {
+    "lv_center": [
+      112.0,
+      112.0
+    ],
+    "rv_insertion_anterior": [
+      73.7,
+      79.9
+    ],
+    "rv_insertion_inferior": [
+      76.6,
+      147.4
+    ]
+  },
+  "apical": {
+    "lv_center": [
+      112.0,
+      112.0
+    ],
+    "rv_insertion_anterior": [
+      79.8,
+      85.0
+    ],
+    "rv_insertion_inferior": [
+      82.3,
+      141.7
+    ]
+  }
+}

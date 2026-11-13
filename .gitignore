@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# examples/output/ IS version-controlled: it is the reference run_demo.py
+# checks against. Refresh it with `python run_demo.py --write`.

@@ -1,0 +1,2 @@
+scar_burden,mean_transmurality,max_transmurality,extent_endocardial,extent_epicardial,extent_mid_myocardial,extent_transmural,wall_anterior,wall_septal,wall_inferior,wall_lateral,rv_insertion_involved,seg_1_burden,seg_2_burden,seg_3_burden,seg_4_burden,seg_5_burden,seg_6_burden,seg_7_burden,seg_8_burden,seg_9_burden,seg_10_burden,seg_11_burden,seg_12_burden,seg_13_burden,seg_14_burden,seg_15_burden,seg_16_burden
+0.164335,0.841774,1.0,0,0,0,1,0,1,0,0,1,0.0,0.749186,0.0,0.0,0.0,0.0,0.0,0.833333,0.917759,0.0,0.0,0.0,0.0,0.235294,0.0,0.0

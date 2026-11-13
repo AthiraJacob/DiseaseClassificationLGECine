@@ -1,0 +1,82 @@
+RESEARCH AND NON-COMMERCIAL USE LICENSE
+
+Copyright (c) 2026 The Authors. All rights reserved.
+
+1. DEFINITIONS
+
+   "Software" means the source code, example data and documentation contained
+   in this repository.
+
+   "Non-Commercial Research Use" means use for academic or scientific
+   research, teaching, scientific publication, or personal study, carried out
+   without expectation of commercial advantage or monetary compensation.
+
+2. GRANT
+
+   Permission is hereby granted, free of charge, to any person obtaining a
+   copy of the Software, to use, copy, modify and create derivative works of
+   the Software solely for Non-Commercial Research Use, subject to the
+   conditions set out below.
+
+3. CONDITIONS
+
+   a. The above copyright notice, this license in full, and the disclaimer in
+      section 5 shall be included in all copies or substantial portions of
+      the Software.
+
+   b. Any publication or public presentation of results obtained using the
+      Software shall cite:
+
+         Jacob, Chitiboi, Sharma, Emrich, Rueckert, Varga-Szemes.
+         "Automated Late Gadolinium Enhancement Quantification Improves
+         Multi-Class Cardiac Disease Detection on CMR."
+         Journal of Cardiovascular Magnetic Resonance.
+
+   c. Modified versions shall be clearly marked as modified and shall not be
+      represented as the original Software.
+
+4. RESTRICTIONS
+
+   a. Commercial use is NOT granted by this license. This includes, without
+      limitation: use in or in support of a commercial product or service;
+      use to provide services to third parties for a fee; incorporation into
+      a product intended for sale, licensing or distribution for commercial
+      advantage; and use in a clinical service for which payment is received.
+      A separate written agreement with the copyright holder is required for
+      any such use.
+
+   b. The Software is NOT a medical device. It is not cleared, approved or
+      certified by any regulatory authority for clinical use, and must not be
+      used to inform, support or make any diagnostic, prognostic or treatment
+      decision for any patient.
+
+   c. No rights are granted under any trademark, trade name, patent or other
+      intellectual property right of the copyright holder, except as strictly
+      necessary to exercise the grant in section 2.
+
+   d. Redistribution of the Software, in original or modified form, is
+      permitted only for Non-Commercial Research Use and only under the terms
+      of this license in its entirety.
+
+5. NO WARRANTY AND LIMITATION OF LIABILITY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, ACCURACY AND NONINFRINGEMENT. IN NO
+   EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+
+   This license terminates automatically if you breach any of its terms. On
+   termination you shall cease all use of the Software and destroy all copies
+   in your possession.
+
+7. DISCLAIMER
+
+   The concepts and information presented in this Software and in the
+   accompanying publication are based on research results that are not
+   commercially available. Future commercial availability cannot be
+   guaranteed.
